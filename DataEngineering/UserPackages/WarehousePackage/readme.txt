@@ -123,9 +123,19 @@ Inheritence:
 
 It is mainly there to ensure code reusability
 One class can inherit the properties and behavior of another class
--single
--multiple
--multilevel
--hierarical
+-single (parent class child class scenario)
+-multiple (multiple parent classes inherited by one child class)
+-multilevel (A inherits B and C inherits a)
+-hierarical ()
 -Hybrid
 -constructor
+
+
+Polymorphism:
+==============
+-> Polymorphism is a core concept in object-oriented programming (OOP) that allows objects of different 
+classes to be treated as objects of a common superclass. The term polymorphism comes from Greek, meaning "many shapes".
+In OOP, polymorphism enables objects to behave in different ways depending on their class type, while 
+adhering to a common interface or superclass
+
+
